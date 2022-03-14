@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Nunito', sans-serif;
 	color: #202030;
 	background-color: #f8f8fc;
 }
@@ -14,7 +14,8 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #566700;	
+    background-color: #677810;
+	color: white;
 }
 
 .resume-main {
@@ -22,7 +23,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #CBCBCB;
+	background-color: #EFF6C8;
 }
 
 /* Styles for lists in the document */
